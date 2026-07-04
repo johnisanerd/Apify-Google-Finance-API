@@ -288,4 +288,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Finance API to power dashboards, market research, and analytics with reliable, structured data.*
 
-Last Updated: 2026.07.03
+Last Updated: 2026.07.04
